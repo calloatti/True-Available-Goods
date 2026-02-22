@@ -66,7 +66,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DistributionRegistryPatch.cs" />
+    <Compile Include="ModPatch.cs" />
     <Compile Include="ModStarter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
