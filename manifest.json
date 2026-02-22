@@ -1,0 +1,13 @@
+﻿{
+  "Id": "calloatti.trueavailablegoods",
+  "Name": "True Available Goods",
+  "Description": "Displays the real amounts of goods available",
+  "Version": "1.0.0",
+  "MinimumGameVersion": "0.6.0.0",
+  "RequiredMods": [
+    {
+      "Id": "Harmony",
+      "MinVersion": "2.4.1"
+    }
+	],
+  "OptionalMods": []
